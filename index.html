@@ -12,5 +12,19 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <!-- Tag Audio Tersembunyi (Tanpa Tombol) -->
+<audio autoplay loop id="bg-music">
+    <source src="heat-waves.mp3" type="audio/mpeg">
+</audio>
+
+<!-- Script Pemicu Autoplay (Solusi Kebijakan Browser) -->
+<script>
+    window.addEventListener('click', function() {
+        const audio = document.getElementById('bg-music');
+        if (audio.paused) {
+            audio.play();
+        }
+    }, { once: true }); // Hanya berjalan satu kali saat klik pertama
+</script>
   </body>
 </html>
