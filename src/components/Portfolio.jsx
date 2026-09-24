@@ -42,10 +42,10 @@ const projects = [
     color: '#8b5cf6',
   },
   {
-    title: 'Real-time Weather & Sky Dashboard',
-    desc: 'Aplikasi dashboard cuaca interaktif dengan integrasi API cuaca global realtime, visualisasi radar awan dinamis, deteksi geolokasi otomatis, dan prakiraan mingguan.',
-    tags: ['API Integration', 'JavaScript', 'Tailwind CSS', 'Data Viz'],
-    link: '#',
+    title: 'Aplkasi digital Alquran',
+    desc: 'Aplikasi Digital Alquran di desain dengan sepenuh hati,untuk menghapal Al-Qur'an.',
+    tags: ['Mari Baca Alquran', 'Mari mengaji', 'pentingnya baca Alquran', 'Alquran'],
+    link: 'https://ayobaca-alquran.vercel.app',
     color: '#ec4899',
   },
 ];
