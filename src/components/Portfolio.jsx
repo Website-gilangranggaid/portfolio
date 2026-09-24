@@ -66,14 +66,14 @@ const certificates = [
     photo: 'https://cdn.phototourl.com/member/2026-09-23-9bcc8bbf-f0f3-48bd-ab8d-940b623e1bf1.jpg',
   },
   {
-    title: 'Web Development Fundamentals',
+    title: 'Sertifikat Bahasa Jepang N5',
     issuer: 'Sertifikat Bahasa Jepang N5',
     year: '2024',
     color: '#f59e0b',
     photo: 'https://cdn.phototourl.com/member/2026-09-23-a4193ca7-a822-4da2-8de2-1625460ba072.jpg',
   },
   {
-    title: 'JavaScript Basics',
+    title: 'Sertifikat Teknik perancangan gambar mesin',
     issuer: 'Sertifikat Teknik perancangan gambar mesin',
     year: '2024',
     color: '#8b5cf6',
